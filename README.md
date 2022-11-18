@@ -4,6 +4,6 @@
 <br><br><br>
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=f0f6fc&lines=Good+to+see+you🚗🚘🚛&center=true&vCenter=true&font=sansserif&size=40)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=f0f6fc&lines=see+you🚗🚘🚛&center=true&vCenter=true&font=sansserif&size=40)](https://git.io/typing-svg)
 
 <br><br><br>
