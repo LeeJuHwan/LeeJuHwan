@@ -1,4 +1,4 @@
-<div align=center><h1>👋 Hi, I`m juhwan </h1></div>
+<div align=center><h1>👋 Hi, I`m Juhwan welcome to my profile </h1></div>
 
 <div align="center">
 <br><br><br>
